@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Riddhima 👋
 
-<!--
-**riddhimadatta6/riddhimadatta6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Biomedical Engineering student at the University of Waterloo interested in the intersection of engineering, healthcare, and data.
 
-Here are some ideas to get you started:
+### 🔬 Interests
+- Medical devices and biomedical engineering
+- Data science and AI in healthcare
+- Drug delivery and biomedical data analysis
+- Surgical robotics and healthcare technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- Python, SQL, C++, MATLAB, VBA
+- Pandas, NumPy, SciPy, Matplotlib
+- Databricks, Power BI, Power Query
+- SolidWorks, Fusion 360, Arduino
+
+### 🚀 Currently Building
+A Python-based **Drug Release Kinetics Analyzer** for modeling and analyzing controlled drug-delivery data.
+
+### 🔗 Connect
+[LinkedIn](https://linkedin.com/in/riddhimadatta)
