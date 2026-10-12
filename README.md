@@ -14,8 +14,11 @@ I'm a Biomedical Engineering student at the University of Waterloo interested in
 - Databricks, Power BI, Power Query
 - SolidWorks, Fusion 360, Arduino
 
-### 🚀 Currently Building
-A Python-based **Drug Release Kinetics Analyzer** for modeling and analyzing controlled drug-delivery data.
+### 🚀 Featured Project
+
+**[Drug Release Kinetics Analyzer](https://github.com/riddhimadatta6/drug-release-kinetics-analyzer)**
+
+Python-based analysis of controlled drug-release data using kinetic modeling, nonlinear curve fitting, and model evaluation with R² and RMSE.
 
 ### 🔗 Connect
 [LinkedIn](https://linkedin.com/in/riddhimadatta)
